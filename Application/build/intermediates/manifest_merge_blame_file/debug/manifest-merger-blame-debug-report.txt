@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2014 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.wyeth.mobilephotobooth"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="27" />
+24-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:20:5-65
+26-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:20:22-62
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:5-81
+27-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:22-78
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:22:5-80
+28-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:22:22-77
+29    <uses-permission android:name="android.permission.READ_CONTACTS" />
+29-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:5-72
+29-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:22-69
+30    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+30-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:5-73
+30-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:22-70
+31
+32    <uses-feature android:name="android.hardware.camera" />
+32-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:5-60
+32-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:26:19-57
+33    <uses-feature android:name="android.hardware.camera.autofocus" />
+33-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:5-70
+33-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:19-67
+34
+35    <application
+35-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:29:5-62:19
+36        android:allowBackup="true"
+36-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:30:9-35
+37        android:debuggable="true"
+38        android:icon="@drawable/ic_launcher"
+38-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:31:9-45
+39        android:label="@string/app_name"
+39-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:32:9-41
+40        android:largeHeap="true"
+40-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:33:9-33
+41        android:theme="@style/MaterialTheme" >
+41-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:9-45
+42        <activity
+42-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:36:9-44:20
+43            android:name="com.wyeth.mobilephotobooth.SplashScreenActivity"
+43-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:37:13-75
+44            android:label="@string/app_name"
+44-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:38:13-45
+45            android:screenOrientation="portrait" >
+45-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:39:13-49
+46            <intent-filter>
+46-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:40:13-43:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:41:17-69
+47-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:41:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:42:17-77
+49-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:42:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:45:9-47:52
+53            android:name="com.wyeth.mobilephotobooth.CameraActivity"
+53-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:46:13-43
+54            android:screenOrientation="portrait" />
+54-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:47:13-49
+55        <activity
+55-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:48:9-50:52
+56            android:name="com.wyeth.mobilephotobooth.IdentityActivity"
+56-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:49:13-45
+57            android:screenOrientation="portrait" />
+57-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:50:13-49
+58
+59        <provider
+59-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:52:9-61:20
+60            android:name="android.support.v4.content.FileProvider"
+60-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:53:13-67
+61            android:authorities="com.wyeth.mobilephotobooth.provider"
+61-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:54:13-70
+62            android:exported="false"
+62-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:55:13-37
+63            android:grantUriPermissions="true" >
+63-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:56:13-47
+64
+65            <!-- ressource file to create -->
+66            <meta-data
+66-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:58:13-60:63
+67                android:name="android.support.FILE_PROVIDER_PATHS"
+67-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:59:17-67
+68                android:resource="@xml/file_path" />
+68-->E:\ExampleProject\Android\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:60:17-50
+69        </provider>
+70    </application>
+71
+72</manifest>
