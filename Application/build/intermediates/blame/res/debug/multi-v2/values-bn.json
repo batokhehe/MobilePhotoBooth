@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\naufal\\.gradle\\caches\\transforms-2\\files-2.1\\5999653a58a513f1695110305774686b\\appcompat-v7-27.0.2\\res\\values-bn\\values-bn.xml",

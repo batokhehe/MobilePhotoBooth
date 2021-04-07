@@ -1,110 +1,110 @@
 [
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_2.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\logo_2.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_camera2_basic.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\layout-land\\fragment_camera2_basic.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_logo_1.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\template\\res\\drawable\\logo_1.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_local_phone.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\template\\res\\drawable\\ic_baseline_local_phone.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera2_basic.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_selector.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable\\edit_text_selector.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_logo_1.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\template\\res\\drawable\\logo_1.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_people.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_people.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera2_basic.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_camera2_basic.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\layout-land\\fragment_camera2_basic.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_local_phone.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\template\\res\\drawable\\ic_baseline_local_phone.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\xml_file_path.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\xml\\file_path.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\xml_file_path.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\xml\\file_path.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_people.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_people.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\layout\\activity_splashscreen.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\template\\res\\drawable\\ic_camera.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_identity.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\layout\\activity_identity.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\layout\\activity_camera.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable\\button_selector.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable\\button_selector.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_flip_camera_ios_24.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\template\\res\\drawable\\ic_baseline_flip_camera_ios_24.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_selector.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable\\edit_text_selector.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_flip_camera_ios_24.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\template\\res\\drawable\\ic_baseline_flip_camera_ios_24.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_frame.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\frame.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_identity.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\layout\\activity_identity.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_people.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_people.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\template\\res\\drawable\\ic_camera.xml"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_frame.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-hdpi\\frame.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_people.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_people.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_2.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-hdpi\\logo_2.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
-        "source": "E:\\ExampleProject\\Android\\android-Camera2Basic-master\\Application\\src\\main\\res\\layout\\activity_splashscreen.xml"
+        "merged": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "E:\\Bhov\\MobilePhotoBooth\\MobilePhotoBooth\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
     }
 ]
