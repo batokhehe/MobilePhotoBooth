@@ -14,13 +14,29 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d845cee-8edb-48b1-a1c7-33f6e0e3baa0" name="Default Changelist" comment="" />
+    <list default="true" id="9d845cee-8edb-48b1-a1c7-33f6e0e3baa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/MobilePhotoBooth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Application/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Application/Application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android-Camera2Basic-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/build/generated/source/buildConfig/debug/com/wyeth/mobilephotobooth/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/build/generated/source/buildConfig/debug/com/wyeth/mobilephotobooth/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/layout/activity_identity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/activity_identity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/layout/activity_splashscreen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/activity_splashscreen.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="5203a249c09db473" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4hofce89tc8l9ppb" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -47,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qWtlazuybzJlLsY6xeCSQ0hZlL" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -59,10 +78,11 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4hofce89tc8l9ppb" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-02T09:56:17.043Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Application/src/main/res/drawable-hdpi" />
-    <property name="last_opened_file_path" value="E:/Bhov/MobilePhotoBooth/MobilePhotoBooth" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -219,22 +239,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617352785040" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1617381045499">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1617811656676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617381045499" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1617381045499">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617811656676" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1617811656675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617381045499" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1617381045498">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617811656675" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1617811656675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617381045498" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1617381045499">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617811656675" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1617811656675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617381045499" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617811656675" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1617381045501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,100 +315,100 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1617302470954" />
-    <state width="300" height="59" key="javadoc.popup.new" timestamp="1617381225983">
+    <state width="300" height="59" key="javadoc.popup.new" timestamp="1617811011654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="300" height="59" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1617381225983" />
+    <state width="300" height="59" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1617811011654" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1617298473450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1617298473450" />
-    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup" timestamp="1617357115490">
+    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup" timestamp="1617811623676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617357115490" />
+    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617811623676" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>969</line>
+          <line>971</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>974</line>
+          <line>976</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>804</line>
+          <line>806</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1067</line>
+          <line>1072</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1045</line>
+          <line>1047</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1041</line>
+          <line>1043</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1046</line>
+          <line>1048</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>800</line>
+          <line>802</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>814</line>
+          <line>816</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>849</line>
+          <line>851</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>876</line>
+          <line>878</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>977</line>
+          <line>979</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1012</line>
+          <line>1014</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1013</line>
+          <line>1015</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>1019</line>
+          <line>1021</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/Application/src/main/java/com/wyeth/mobilephotobooth/Camera2BasicFragment.java</url>
-          <line>865</line>
+          <line>867</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
