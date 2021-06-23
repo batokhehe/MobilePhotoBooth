@@ -994,17 +994,19 @@ public class Camera2BasicFragment extends Fragment
                 } else {
                     rotatedBitmap = bitmap;
                 }
+                Log.d(TAG, "rotated bitmap width : " + rotatedBitmap.getWidth() + " ~ height : " + rotatedBitmap.getHeight());
 
                 Bitmap overlay = BitmapFactory.decodeResource(getResources(), R.drawable.frame);
-                overlay = Bitmap.createScaledBitmap(overlay, rotatedBitmap.getWidth(), rotatedBitmap.getHeight(), false);
-
+                Log.d(TAG, "before overlay width : " + overlay.getWidth() + " ~ height : " + overlay.getHeight());
+                overlay = Bitmap.createScaledBitmap(overlay, rotatedBitmap.getWidth(), rotatedBitmap.getWidth(), false);
+                Log.d(TAG, "after overlay width : " + overlay.getWidth() + " ~ height : " + overlay.getHeight());
                 Bitmap b = Bitmap.createBitmap(rotatedBitmap.getWidth(), rotatedBitmap.getHeight(), Bitmap.Config.ARGB_8888);
                 //create canvas with a clean bitmap
                 Canvas canvas = new Canvas(b);
                 //draw the snappedImage on the canvas
                 canvas.drawBitmap(rotatedBitmap, 0, 0, new Paint());
                 //draw the overlay on the canvas
-                canvas.drawBitmap(overlay, 0, 0, new Paint());
+                canvas.drawBitmap(overlay, 0, rotatedBitmap.getHeight() - overlay.getHeight(), new Paint());
 
                 ByteArrayOutputStream blob = new ByteArrayOutputStream();
                 b.compress(Bitmap.CompressFormat.JPEG, 30 /* Ignored for PNGs */, blob);

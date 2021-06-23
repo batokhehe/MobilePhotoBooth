@@ -42,6 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/control"
         android:adjustViewBounds="true"
+        android:scaleType="fitXY"
         android:src="@drawable/frame" />
 
     <FrameLayout
