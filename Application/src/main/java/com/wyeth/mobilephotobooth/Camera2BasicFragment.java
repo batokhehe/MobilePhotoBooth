@@ -719,6 +719,8 @@ public class Camera2BasicFragment extends Fragment
             mPreviewRequestBuilder
                     = mCameraDevice.createCaptureRequest(CameraDevice.TEMPLATE_PREVIEW);
             mPreviewRequestBuilder.addTarget(surface);
+            mPreviewRequestBuilder.set(CaptureRequest.CONTROL_AE_LOCK, false);
+            mPreviewRequestBuilder.set(CaptureRequest.CONTROL_AE_MODE, CameraMetadata.CONTROL_AE_MODE_ON);
 
             // Here, we create a CameraCaptureSession for camera preview.
             mCameraDevice.createCaptureSession(Arrays.asList(surface, mImageReader.getSurface()),
@@ -1072,10 +1074,11 @@ public class Camera2BasicFragment extends Fragment
             whatsAppIntent.setPackage("com.whatsapp");
             whatsAppIntent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
             whatsAppIntent.putExtra(Intent.EXTRA_STREAM, uri);
+            whatsAppIntent.putExtra("jid", "62" + new StringBuilder(mPhoneNumber).deleteCharAt(0).toString() + "@s.whatsapp.net"); //phone number without "+" prefix
 //            whatsAppIntent.putExtra(Intent.EXTRA_TEXT, "Hello");
 
             try {
-                startActivity(Intent.createChooser(whatsAppIntent, "Share with"));
+                startActivity(whatsAppIntent);
             } catch (android.content.ActivityNotFoundException ex) {
                 Toast.makeText(getActivity(), "Whatsapp have not been installed.", Toast.LENGTH_LONG).show();
             }
